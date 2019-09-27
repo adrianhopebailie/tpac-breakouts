@@ -12,5 +12,5 @@
   "sponsor": "Coil",
   "span": 2,
   "capacity": "medium",
-  "report": "<p>Bruce Lawson presented slides describing the problem statement and motivations for creating a standard.</p><p>Following this, Adrian Hope-Bailie walked through some slides describing the proposed API and the architectural decisions that are still being discussed ito how the feature should be deployed to browsers.</p><p>This was followed by discussion between the proposers and audience. All of the discussion has been captured as <a href=\"https://github.com/adrianhopebailie/web-monetization/issues\">issues</a> against the explainer.</p>"
+  "report": "<p>Bruce Lawson presented <a href='https://speakerdeck.com/brucel/tpac-2019'>slides</a> describing the problem statement and motivations for creating a standard.</p><p>Following this, Adrian Hope-Bailie walked through some slides describing the proposed API and the architectural decisions that are still being discussed ito how the feature should be deployed to browsers.</p><p>This was followed by discussion between the proposers and audience. All of the discussion has been captured as <a href=\"https://github.com/adrianhopebailie/web-monetization/issues\">issues</a> against the explainer.</p>"
 }
